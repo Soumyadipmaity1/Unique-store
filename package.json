@@ -1,0 +1,30 @@
+{
+  "name": "ecom_web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "description": "",
+  "main": "vite.config.js",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "esbuild": "^0.25.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2",
+    "nanoid": "^3.3.10",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.3",
+    "rollup": "^4.36.0",
+    "source-map-js": "^1.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
